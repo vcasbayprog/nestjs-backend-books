@@ -1,0 +1,9 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar la carpeta de distribución
+dist/
+
+# Ignorar el archivo de variables de entorno
+.env
+
